@@ -4,7 +4,8 @@ Supplementary material for the research work "Domain-Invariant Icing Detection o
 <img src= what about the generated image of ice characteristics? />
 
 A software code for predicting blade icing on images of rotor blades using supervised and unsupervised methods.
-...TODO
+Contents of the repository include:
+TODO
 
 ## Download and use of the repository:
 To download this repository and its submodules use
