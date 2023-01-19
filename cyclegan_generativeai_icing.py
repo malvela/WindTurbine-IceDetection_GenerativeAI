@@ -36,4 +36,8 @@ os.chdir('pytorch-CycleGAN-and-pix2pix/')
 !python test.py --dataroot B-Final/Rotorblade --num_test 820 --checkpoints_dir ModifyBRotorToIceCheckpoints/ --results_dir Generated-ModifyBRotorToIceFinal --name modify_brotor2icemodel --model test --no_dropout --use_wandb
 
 #Using the pre-trained Summer2Winter model
-!python test.py --dataroot ASummerToWinter/testA --checkpoints_dir ASummerToWinterCheckpoints --results_dir ASummerToWinterResults --name summer2winter_spiztner --model test --no_dropout --use_wandb
+!python test.py --dataroot ASummerToWinter/testA --results_dir ASummerToWinterResults --name summer2winter_summer2winter_yosemite --model test --no_dropout --use_wandb
+
+
+#Using the pre-trained Summer2Winter model
+!python test.py --dataroot BSummerToWinter/testA --results_dir BSummerToWinterResults --name summer2winter_summer2winter_yosemite --model test --no_dropout --use_wandb
