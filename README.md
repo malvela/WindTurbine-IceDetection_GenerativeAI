@@ -1,0 +1,1 @@
+# WindTurbine-IceDetection_GenerativeAI
