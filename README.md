@@ -1,4 +1,4 @@
-# Wind turbine icing detection - still in Private Mode
+# Rotor Blade Icing Detection - still in Private Mode
 Supplementary material for the research work "Domain-Invariant Icing Detection on Wind Turbine Rotor Blades with Generative AI for Deep Transfer Learning" (in submission).
 
 <img src= what about the generated image of ice characteristics? />
