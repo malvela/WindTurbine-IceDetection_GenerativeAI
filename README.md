@@ -1,9 +1,8 @@
-# Rotor Blade Icing Detection - still in Private Mode
+# Rotor Blade Icing Detection with generative AI
 Supplementary material for the application paper "Domain-Invariant Icing Detection on Wind Turbine Rotor Blades with Generative AI for Deep Transfer Learning" (in submission).
 
 
-A repository with code for predicting blade icing on images of rotor blades using supervised (conventional CNNs) and unsupervised (with neural style transfer and CycleGAN) techniques.
-Contents of the repository include:
+A repository with code for predicting blade icing on images of turbine rotor blades using supervised (neural style transfer) and unsupervised (CycleGAN) techniques.
 
 
 ## Download and use of the repository:
