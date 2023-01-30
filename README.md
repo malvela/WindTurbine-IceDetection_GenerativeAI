@@ -19,9 +19,9 @@ TODO
 ## Cite as:
 
 If you are using this repository in your research, please cite it as:
+_
 
-
-Chatterjee J., Nieto M.T., Gelbhardt H., Dethlefs N., Ohlendorf J.H., Greulich A., Thoben K.D., "Domain-Invariant Icing Detection on Wind Turbine Rotor Blades with Generative AI for Deep Transfer Learning" (in submission)
+Chatterjee J., Nieto M.T., Gelbhardt H., Dethlefs N., Ohlendorf J.H., Greulich A., Thoben K.D., "Domain-Invariant Icing Detection on Wind Turbine Rotor Blades with Generative AI for Deep Transfer Learning" (in submission)_
 ## License:
 
 This repo is based on the MIT License, which allows free use of the provided resources, subject to the original sources being credit/acknowledged appropriately. The software/resources under MIT license is provided as is, without any liability or warranty at the end of the authors.
