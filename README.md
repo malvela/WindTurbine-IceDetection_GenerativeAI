@@ -15,7 +15,7 @@ To download this repository and its submodules use
 This repository contains Python files for generalised icing prediction (domain-invariant - independent of the wind park the AI model has been trained on) on wind turbine rotor blades using a tiny computer.
 
 - cyclegan_generativeai_icing.py : Used to train the CycleGAN model from scratch (or leverage the pre-trained Summer2Winter Yosemite model).
-- Overlay_Images.ipynb : Used to apply the masks to the images, removing background or foreground.
+- Overlay_Images.ipynb : Used to apply the masks to the images, blending background or foreground.
 - StyleTransfer_Notebook_BladeImages.ipynb: Used to train the style transfer model after masking the images. 
 ## Cite as:
 
