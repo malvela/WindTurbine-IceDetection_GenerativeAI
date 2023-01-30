@@ -17,7 +17,7 @@ This repository contains Python files for generalised icing prediction (domain-i
 - CyleGAN/cyclegan_generativeai_icing.py : Used to train the CycleGAN model from scratch (or leverage the pre-trained Summer2Winter Yosemite model).
 - Fast_Style_Transfer/Overlay_Images.ipynb : Used to overlay the styled image to the rotorblade using labelled masks.
 - Fast_Style_Transfer/StyleTransfer_Notebook_BladeImages.ipynb: Used to modify the content images with the pretrained style transfer model. 
-- StyleTransfer-TrainFromScratch/NST_TrainingFromScratch.py: Used to modidfy content images by training neural style transfer algorithm (based on VGG-19) from scratch.
+- StyleTransfer-TrainFromScratch/NST_TrainingFromScratch.py: Used to modify content images by training neural style transfer algorithm (based on VGG-19) from scratch.
 ## Cite as:
 
 If you are using this repository in your research, please cite it as:
