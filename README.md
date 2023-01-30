@@ -15,6 +15,7 @@ To download this repository and its submodules use
 This repository contains Python files for generalised icing prediction (domain-invariant - independent of the wind park the AI model has been trained on) on wind turbine rotor blades using a tiny computer.
 
 TODO
+- cyclegan_generativeai_icing.py : Used to train the CycleGAN model from scratch (or leverage the pre-trained Summer2Winter Yosemite model).
 
 ## Cite as:
 
