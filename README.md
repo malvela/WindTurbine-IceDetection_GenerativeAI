@@ -1,4 +1,4 @@
-# Rotor Blade Icing Detection with Generative AI
+# Wind Turbine Rotor Blade Generalised Ice Detection with Generative AI
 Supplementary material for the application paper "Domain-Invariant Icing Detection on Wind Turbine Rotor Blades with Generative AI for Deep Transfer Learning" (in submission).
 
 <img src="https://user-images.githubusercontent.com/68553692/176689481-5fc86870-d7ed-4ec5-bb98-7abaf9564dc4.png" width="400" height="300" />
