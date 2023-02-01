@@ -25,7 +25,7 @@ If you are using this repository in your research, please cite it as:
 
 Chatterjee J., Alvela Nieto M.T., Gelbhardt H., Dethlefs N., Ohlendorf J.-H., Greulich A., Thoben K.-D., "Domain-Invariant Icing Detection on Wind Turbine Rotor Blades with Generative AI for Deep Transfer Learning" (in submission)
 
-##References:
+## References:
 	
 1.	Reference for CycleGAN original model (and original pre-trained models used - such as summer2winter): (https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). 
 2.	Reference for Fast Style Transfer technique: https://www.tensorflow.org/tutorials/generative/style_transfer
